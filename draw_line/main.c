@@ -2,7 +2,6 @@
 #include <math.h>
 #include <wchar.h>
 #include <locale.h>
-#include <ncurses.h>
 
 #define X_MAX 50
 #define Y_MAX 50
